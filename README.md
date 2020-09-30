@@ -9,8 +9,9 @@ OrderNow is a online E-Commerce Web App. As a user, you can browse and order pro
 - Amazon RDS
 - JSP 
 - Spring Security
-- Spring Workflow
-- AWS Fullfillment System
+- Spring Web Flow
+- AWS Lambda
+- AWS Step Function
 
 ## Launch
 1.Copy this code repo to your local device.
