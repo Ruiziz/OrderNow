@@ -24,3 +24,6 @@ OrderNow is a online E-Commerce Web App. As a user, you can browse and order pro
 
 ## Demo vedio
 Here is a demo video for OrderNow, youtube link [here](https://www.youtube.com/watch?v=gHPIf-vuDrE&feature=youtu.be).
+
+## Licence
+OrderNow is released under the [Apache 2.0 license](OrderNow/licence.txt).
